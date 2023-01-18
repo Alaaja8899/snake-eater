@@ -7,3 +7,4 @@ for dirc in key:
         key[dirc] = True
 for ke in key:
     print(key.get(ke))
+    
